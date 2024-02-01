@@ -1,2 +1,1 @@
-Hello, World!
-"Hola Mundo!"
+Hello World, git is fun!
